@@ -1,4 +1,4 @@
-# Copyright (C) 2014 SlimRoms Project
+# Copyright (C) 2014 BrokenRoms Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@ include $(CLEAR_VARS)
 LOCAL_STATIC_JAVA_LIBRARIES := \
         android-support-v4 \
         android-support-v7-cardview \
-        org.slim.framework
+        org.broken.framework
 
 LOCAL_JAVA_LIBRARIES := \
         android-support-v7-recyclerview
